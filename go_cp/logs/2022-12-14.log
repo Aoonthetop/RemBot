@@ -1,0 +1,209 @@
+[2022-12-14 19:37:05] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-12-14 19:37:05] [WARNING]: 将在 5秒 后继续. 
+[2022-12-14 19:37:10] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2022-12-14 19:39:18] [FATAL]: 二维码过期 
+[2022-12-14 19:39:40] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-12-14 19:39:40] [WARNING]: 将在 5秒 后继续. 
+[2022-12-14 19:40:11] [FATAL]: 扫码被用户取消. 
+[2022-12-14 19:40:38] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-12-14 19:40:38] [WARNING]: 将在 5秒 后继续. 
+[2022-12-14 19:40:58] [FATAL]: 扫码被用户取消. 
+[2022-12-14 19:41:05] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-12-14 19:41:05] [WARNING]: 将在 5秒 后继续. 
+[2022-12-14 19:41:27] [FATAL]: 扫码被用户取消. 
+[2022-12-14 19:41:55] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-12-14 19:41:55] [WARNING]: 将在 5秒 后继续. 
+[2022-12-14 19:42:13] [FATAL]: 扫码被用户取消. 
+[2022-12-14 19:42:32] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-12-14 19:42:32] [WARNING]: 将在 5秒 后继续. 
+[2022-12-14 19:42:58] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-14 19:43:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:43:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:44:56] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-14 19:45:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 19:45:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://your_websocket_universal.server 时出现错误: dial tcp: lookup your_websocket_universal.server: no such host 
+[2022-12-14 20:03:50] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-14 20:03:58] [WARNING]: 警告: 长消息延迟为 1093ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
+[2022-12-14 20:10:32] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-14 20:10:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:10:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:10:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:10:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:10:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:11:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:11:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:18:14] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53381->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 20:18:15] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:53381->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 20:18:55] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-12-14 20:19:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:19:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:19:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:19:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:19:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:28:18] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:54217->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 20:28:19] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54217->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 20:28:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:28:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:28:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:28:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:28:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:28:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:28:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:28:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:29:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:30:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:31:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:32:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:33:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:34:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:35:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:36:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:36:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:36:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:36:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:36:26] [FATAL]: open image cache failed: 文件被其他进程占用 
+[2022-12-14 20:36:34] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56108->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 20:36:34] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56108->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 20:36:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:36:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:45:57] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56124->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 20:45:59] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56124->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 20:46:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:46:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:47:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:47:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:47:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 20:50:07] [WARNING]: 语音文件 C62E6944-39D9-9336-AADB-80D6589DE28D.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 20:50:33] [WARNING]: 语音文件 19EF0CB9-B254-BB04-71D1-91D411C9095D.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 20:57:55] [WARNING]: 语音文件 37D4FD86-DD20-D84A-B2AA-DA659FBC846B.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 20:58:47] [WARNING]: 语音文件 A54431C1-EA9C-C9ED-6C40-1D19D461CB40.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 20:59:17] [WARNING]: 语音文件 AB9C8DAF-B591-211B-9EF0-D0226DE44AE8.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 20:59:56] [WARNING]: 语音文件 5BAD0AE6-4C72-4400-6D65-757486C6A7DE.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 21:00:42] [WARNING]: 语音文件 6A4BAEC4-B550-87D4-A153-56A6C9E9A8A2.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 21:01:22] [WARNING]: 语音文件 88EDD2D7-5BFF-6857-1D57-0DA90881A6E3.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 21:01:53] [WARNING]: 语音文件 6E02D2C5-325C-EC55-F9C9-3970E7DF53D3.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 21:02:26] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2022-12-14 21:02:37] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2022-12-14 21:03:07] [WARNING]: 语音文件 D55F3BCF-66BD-CE70-4C08-139B6F542E74.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 21:03:08] [WARNING]: 获取消息时出现错误: get value error: leveldb: not found 
+[2022-12-14 21:03:20] [WARNING]: 语音文件 C8264088-E1C0-4BDC-49A5-E5E090BF3258.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 21:06:14] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:56455->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 21:06:14] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:56455->127.0.0.1:53245: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 21:06:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 21:06:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 21:06:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 21:06:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 21:06:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:53245/onebot/v11/ws/ 时出现错误: dial tcp 127.0.0.1:53245: connectex: No connection could be made because the target machine actively refused it. 
+[2022-12-14 21:21:42] [WARNING]: 语音文件 60FD7B37-313C-59EE-33BF-2806423728B5.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 21:22:21] [WARNING]: 语音文件 AAA89C71-A5F2-0350-4B9F-52ADDE1030EE.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 21:22:34] [WARNING]: 语音文件 61531DB5-8C55-F17D-EC41-EA7F5A6D3790.amr 下载失败: Get "http://grouptalk.c2c.qq.com": EOF 
+[2022-12-14 22:11:20] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:58068->127.0.0.1:53245: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-12-14 22:11:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:58068->127.0.0.1:53245: use of closed network connection 
